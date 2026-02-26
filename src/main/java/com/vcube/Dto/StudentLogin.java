@@ -6,9 +6,6 @@ public class StudentLogin {
 	
 	public StudentLogin() {
 		
-
-	
-		
 	}
 
 	public String getUsername() {
@@ -28,7 +25,6 @@ public class StudentLogin {
 	}
     @Override
     public String toString() {
-    	// TODO Auto-generated method stub
     	return username;
     }
 	public StudentLogin(String username, String password) {

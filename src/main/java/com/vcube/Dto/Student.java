@@ -4,7 +4,7 @@ public class Student {
 	public Student(String firstname, String lastname, String email, long phno, String username, String password) {
 	super();
 	this.firstname=firstname;
-	this.lastname=firstname;
+	this.lastname=lastname;
 	this.email=email;
 	this.phno=phno;
 	this.username=username;
